@@ -6,4 +6,4 @@
 
 🚀 My career led me down the path of building distributed systems that served millions of users. But lately, I've rekindled my love for Ruby and Rails — simple, yet so productive.
 
-📚 You might find me blogging about my experiences, challenges, and discoveries as I go along this new journey of mine.
+📚 You might find me blogging about my experiences, challenges, and discoveries as I go on this new journey of mine.
