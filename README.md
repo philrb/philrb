@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm Phil, a software engineer with over a decade of experience, residing in sunny Los Angeles, California.
+👋 I'm Phil, a software engineer with over a decade of experience, residing in sunny Los Angeles, California.
 
 🌟 This new GitHub account marks the beginning of my journey in the open source community. Despite my years in the field, I've had limited opportunities to contribute. It's time for a change.
 
